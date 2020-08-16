@@ -70,7 +70,7 @@ title: Research
 ### Talks
 
 * **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
-  * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541-short.pdf) 
+  * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541-short.pdf)  [[video]](https://www.youtube.com/watch?v=cfud4Do8lI4)
 
 * **Competing Bandits in Matching Markets**
   * BAIR/CPAR/BDD seminar, Berkeley, CA, USA. Nov 2019.
