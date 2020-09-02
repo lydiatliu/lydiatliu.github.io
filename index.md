@@ -18,7 +18,9 @@ Among other things, I enjoy [photography](https://www.flickr.com/photos/15853517
 
 
 
-<!--**What's new?** | Blog post: [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) -->
+**What's new?** | We are organizing a workshop at NeurIPS 2020 on [**Consequential Decision Making
+in Dynamic Environments**](https://dynamicdecisions.github.io/)!
+<!-- -->
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
