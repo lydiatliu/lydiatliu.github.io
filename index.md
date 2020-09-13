@@ -18,7 +18,7 @@ Among other things, I enjoy [photography](https://www.flickr.com/photos/15853517
 
 
 
-**What's new?** | We are running a workshop at NeurIPS 2020 on [**Consequential Decision Making
+**News** | We are running a workshop at NeurIPS 2020 on [**Consequential Decision Making
 in Dynamic Environments**](https://dynamicdecisions.github.io/)!
 <!-- -->
 			
