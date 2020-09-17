@@ -14,11 +14,11 @@ Previously, I graduated with a BSE in [Operations Research and Financial Enginee
 
 I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) and an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class).
 
-Among other things, I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and <a href="/writing">poetry.</a>
+I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and <a href="/writing">poetry.</a>
 
 
 
-**News** | We are running a workshop at NeurIPS 2020 on [**Consequential Decision Making
+**News** | We are organizing a virtual workshop at NeurIPS 2020 on [**Consequential Decision Making
 in Dynamic Environments**](https://dynamicdecisions.github.io/)!
 <!-- -->
 			
