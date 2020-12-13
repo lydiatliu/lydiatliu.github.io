@@ -18,7 +18,7 @@ I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and 
 
 
 
-**News** | We are organizing a virtual workshop at NeurIPS 2020 on [**Consequential Decision Making
+**News** | We organized a virtual workshop at NeurIPS 2020 on [**Consequential Decision Making
 in Dynamic Environments**](https://dynamicdecisions.github.io/)!
 <!-- -->
 			
