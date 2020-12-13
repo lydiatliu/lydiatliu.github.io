@@ -94,6 +94,10 @@ title: Research
   * John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
   * Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
   
+### Workshops co-organized
+
+* NeurIPS 2020 Workshop on [**Consequential Decision Making
+in Dynamic Environments**](https://dynamicdecisions.github.io/).
 
 ### Other links  
 Our work has been featured in:
