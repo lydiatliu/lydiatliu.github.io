@@ -7,7 +7,7 @@ title: Research
 
 * Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
 **Bandit Learning in Decentralized Matching Markets.**  
-arXiv preprint, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
+_arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 
 
 ### Publications
