@@ -18,7 +18,7 @@ I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and 
 
 
 
-<!-- **News** | -->
+**News** | Our new preprint on [Bandit Learning in Decentralized Matching Markets] (https://arxiv.org/abs/2012.07348) is available.
 <!-- -->
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
