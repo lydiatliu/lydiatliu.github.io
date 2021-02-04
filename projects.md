@@ -74,6 +74,8 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 ### Talks
 
 * **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
+  * University of Bristol Data Science seminar, virtual. Jan 2021.
+  * Center for Human-Compatible AI (CHAI) seminar, virtual. Jul 2020.
   * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541-short.pdf)  [[video]](https://www.youtube.com/watch?v=cfud4Do8lI4)
 
 * **Competing Bandits in Matching Markets**
