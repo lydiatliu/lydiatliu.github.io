@@ -7,7 +7,7 @@ title: Writing
 
 Lydia's poems have appeared or are forthcoming in 
 * *Bellingham Review*
-* *The Columbia Review*
+* *The Columbia Review* ([102:1](https://issuu.com/thecolumbiareview/docs/fall2020combinedd))
 * *Berkeley Poetry Review* (51) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/)
 * *Indiana Review* (41:2)
 * *Women's Studies: An inter-disciplinary journal* (47:6, 47:7)
