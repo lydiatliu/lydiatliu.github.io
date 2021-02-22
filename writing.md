@@ -15,6 +15,6 @@ Lydia's poems have appeared or are forthcoming in
 * *Modern Haiku* (50:1)
 * *Frogpond* ([41:2](/poems/blackberry.md), 42:1).
 
-She received the Bain-Swiggett Poetry Prize from Princeton University in 2016, and the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley in 2019.
+She is a recipient of the Bain-Swiggett Poetry Prize from Princeton University (2016), the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley (2019), and the C.D. Wright Memorial Scholarship from the [Poetry Program at the Community of Writers](https://communityofwriters.org/workshops/poetry-workshop/) (2020).
 
 
