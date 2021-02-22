@@ -18,8 +18,8 @@ I also like to take [pictures](https://www.flickr.com/photos/158535173@N08/), wr
 
 
 
-**News** | Our manuscript [Bandit Learning in Decentralized Matching Markets](https://arxiv.org/abs/2012.07348) is on arXiv.
-<!-- -->
+<!--**News** | Our manuscript [Bandit Learning in Decentralized Matching Markets](https://arxiv.org/abs/2012.07348) is on arXiv. -->
+
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
