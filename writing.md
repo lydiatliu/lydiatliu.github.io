@@ -6,6 +6,7 @@ title: Writing
 ### Poetry
 
 Lydia's poems have appeared or are forthcoming in 
+* *Pigeon Pages*
 * *Bellingham Review*
 * *The Columbia Review* ([102:1](https://issuu.com/thecolumbiareview/docs/fall2020combinedd))
 * *Berkeley Poetry Review* (51) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/)
