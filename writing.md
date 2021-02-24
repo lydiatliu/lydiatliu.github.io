@@ -5,7 +5,7 @@ title: Writing
 
 ### Poetry
 
-Lydia's poems have appeared or are forthcoming in 
+Lydia's poems have appeared or are forthcoming in:
 
 *Pigeon Pages*, "studies".
 
