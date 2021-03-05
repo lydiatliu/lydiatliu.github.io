@@ -74,8 +74,8 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 ### Talks
 
 * **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
-  * University of Bristol Data Science seminar, virtual. Jan 2021.
-  * Center for Human-Compatible AI (CHAI) seminar, virtual. Jul 2020.
+  * University of Bristol Data Science seminar, Bristol, England. (Zoom) Jan 2021.
+  * Center for Human-Compatible AI (CHAI) seminar, Berkeley, CA. (Zoom) Jul 2020.
   * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541-short.pdf)  [[video]](https://www.youtube.com/watch?v=cfud4Do8lI4)
 
 * **Competing Bandits in Matching Markets**
@@ -89,6 +89,7 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
   * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf) [[video, starts at 34:50]](https://slideslive.com/38917650/statistical-learning-theory)
 
 * **Delayed Impact of Fair Machine Learning** 
+  * Spring Meeting, Young Center for Interdisciplinary Research, Bielefeld, Germany. (Zoom) March 2021.
   * MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
   * MPI for Software Systems, Saarbrucken, Germany. October 2018.
   * MPI for Intelligent Systems, Tuebingen, Germany. October 2018.
