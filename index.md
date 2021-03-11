@@ -6,7 +6,7 @@ title: Lydia T. Liu | University of California, Berkeley
 	
 # Lydia T. Liu #
 
-<img src="img/lydia-b-w.jpg" alt="Photo" class="leftside_image" title="I thank Hagit Caspi for this portrait!">
+<img src="img/2021.jpg" alt="Photo" class="leftside_image" title="I thank Hagit Caspi for this portrait!">
 
 I am a fourth-year PhD student in [Computer Science](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My current research examines the **theoretical foundations of machine learning and algorithmic decision-making**, with a focus on **societal impact and human welfare.** Other interests include microeconomics and high-dimensional statistics.
 
