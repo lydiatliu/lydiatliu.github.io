@@ -49,6 +49,7 @@ p {
   font-style: italic;
   border-radius: 20%;
   max-width: 40%;
+  max-height: 30%;
   height: auto;
 }
 
