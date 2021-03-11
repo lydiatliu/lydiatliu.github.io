@@ -26,6 +26,6 @@ Lydia's poems have appeared or are forthcoming in:
 She was a recipient of the Bain-Swiggett Poetry Prize from Princeton University (2016), the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley (2019), and the C.D. Wright Memorial Scholarship from [the Poetry Program at the Community of Writers](https://communityofwriters.org/workshops/poetry-workshop/) (2020).
 
 
-![Keep calm and drink tea](img/2020_reading_2.png)  
+> ![Keep calm and drink tea](img/2020_reading_2.png)  
 > Reading with Bhanu Kapil at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) in Oct 2020!
 
