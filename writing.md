@@ -27,5 +27,5 @@ She was a recipient of the Bain-Swiggett Poetry Prize from Princeton University 
 
 
 ![Keep calm and drink tea](img/2020_reading_2.png)  
-*Reading with Bhanu Kapil at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) in Oct 2020!*
+*Reading with Bhanu Kapil on Zoom at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) in Oct 2020!*
 
