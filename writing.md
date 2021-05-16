@@ -7,7 +7,7 @@ title: Writing
 
 Lydia's poems have appeared or are forthcoming in:
 
-> *Pigeon Pages*, "studies".
+> *Pigeon Pages*, ["studies"](https://pigeonpagesnyc.com/studies).
 
 > *Bellingham Review*, "Paean to hair".
 
