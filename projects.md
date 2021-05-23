@@ -73,7 +73,10 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 
 ### Talks
 
-* **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
+* **Learning in Decentralized Matching Markets**
+  * Foundations of Data Science Institute (FODSI) Seminar, May 2021.
+
+* **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally**  
   * University of Bristol Data Science seminar, Bristol, England. (Zoom) Jan 2021.
   * Center for Human-Compatible AI (CHAI) seminar, Berkeley, CA. (Zoom) Jul 2020.
   * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541-short.pdf)  [[video]](https://www.youtube.com/watch?v=cfud4Do8lI4)
