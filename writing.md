@@ -13,7 +13,7 @@ Lydia's poems have appeared or are forthcoming in:
 
 > *The Columbia Review* ([102:1](https://issuu.com/thecolumbiareview/docs/fall2020combinedd)), "the problem of deer in singapore".
 
-> *Berkeley Poetry Review* (51) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/), "The problem of deer".
+> *Berkeley Poetry Review* ([51](https://www.ocf.berkeley.edu/~bpr/past-issues/51st-issue/)) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/), "The problem of deer".
 
 > *Indiana Review* (41:2), "Here".
 
