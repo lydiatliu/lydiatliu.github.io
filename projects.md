@@ -5,9 +5,9 @@ title: Research
 
 ### Preprints
 
-* Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
-**Bandit Learning in Decentralized Matching Markets.**  
-_arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
+* Lydia T. Liu, Nikhil Garg, Christian Borgs.  
+**Strategic ranking.**  
+_arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)
 
 
 ### Publications
@@ -39,7 +39,12 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](https://arxiv.org/abs/1803.04383) [[code]](https://github.com/lydiatliu/delayedimpact)
 
-#### Journals
+#### Journal articles
+
+* Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
+**Bandit Learning in Decentralized Matching Markets.**  
+*Journal of Machine Learning Research*, 2021 (to appear). [[arxiv]](https://arxiv.org/abs/2012.07348)
+
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
 **Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
@@ -50,7 +55,7 @@ _arXiv preprint_, 2020. [[arxiv]](https://arxiv.org/abs/2012.07348)
 *Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
 
-#### Workshops
+#### Workshop proceedings 
 
 * Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.  
 **Balancing Competing Objectives for Welfare-Aware Machine Learning with Imperfect Data.**  
