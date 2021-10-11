@@ -43,7 +43,7 @@ _arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)
 
 * Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
 **Bandit Learning in Decentralized Matching Markets.**  
-*Journal of Machine Learning Research*, 2021 (to appear). [[arxiv]](https://arxiv.org/abs/2012.07348)
+*Journal of Machine Learning Research*, 22(211):1−34, 2021. [[journal]](https://jmlr.org/papers/v22/20-1429.html) [[arxiv]](https://arxiv.org/abs/2012.07348)
 
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
