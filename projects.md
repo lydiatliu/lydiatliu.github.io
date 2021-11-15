@@ -3,11 +3,18 @@ layout: default
 title: Research
 ---
 
-### Preprints
+
+
+### Manuscripts
+
+* Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
+**Promises and Pitfalls of Machine Learning in Education.**  
+A preliminary version appeared as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC)](https://www.tprcweb.com), 2021
 
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
-_arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)
+_arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)  
+A preliminary version appeared as a poster at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/)
 
 
 ### Publications
@@ -66,7 +73,8 @@ _arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)
 *[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf)*, Barcelona, Spain, 2016. Also presented at the *11th Women in Machine Learning Workshop* and [*the Deep Reinforcement Learning Workshop at NeurIPS 2016*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view).
 
 
-*<sup>\*</sup>equal contribution*
+*<sup>\*</sup> <sup>^</sup> equal contribution*
+
 
 
 ### Blog posts
