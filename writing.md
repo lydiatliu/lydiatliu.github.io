@@ -7,11 +7,11 @@ title: Writing
 
 Lydia's poems have appeared or are forthcoming in:
 
+> *Bellingham Review* (83), ["Paean to hair"](http://bhreview.org/2021/11/12/paean-to-hair/).
+
 > *Written Here and There: The Community of Writers Poetry Review [2020](https://communityofwriters.org/media/books-journals/)*, "Fig".
 
 > *Pigeon Pages*, ["studies"](https://pigeonpagesnyc.com/studies).
-
-> *Bellingham Review*, "Paean to hair".
 
 > *The Columbia Review* ([102:1](https://issuu.com/thecolumbiareview/docs/fall2020combinedd)), "the problem of deer in singapore".
 
