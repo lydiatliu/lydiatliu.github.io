@@ -9,12 +9,12 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
 **Promises and Pitfalls of Machine Learning in Education.**  
-A preliminary version appeared as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC)](https://www.tprcweb.com), 2021
+A preliminary version appeared as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
 
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
 _arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)  
-A preliminary version appeared as a poster at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/)
+A preliminary version appeared as a poster at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/).
 
 
 ### Publications
