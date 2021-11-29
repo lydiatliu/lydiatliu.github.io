@@ -7,7 +7,7 @@ title: Writing
 
 Lydia's poems have appeared or are forthcoming in:
 
-> *Bellingham Review* (83), ["Paean to hair"](http://bhreview.org/2021/11/12/paean-to-hair/).
+> *Bellingham Review* (83), ["paean to hair"](http://bhreview.org/2021/11/12/paean-to-hair/).
 
 > *Written Here and There: The Community of Writers Poetry Review [2020](https://communityofwriters.org/media/books-journals/)*, "Fig".
 
