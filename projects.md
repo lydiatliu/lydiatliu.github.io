@@ -50,7 +50,7 @@ A preliminary version appeared as a poster at the ACM conference on Equity and A
 
 * Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
 **Bandit Learning in Decentralized Matching Markets.**  
-*Journal of Machine Learning Research*, 22(211):1−34, 2021. [[journal]](https://jmlr.org/papers/v22/20-1429.html) [[arxiv]](https://arxiv.org/abs/2012.07348)
+*Journal of Machine Learning Research*, 22(211):1−34, 2021. [[journal]](https://jmlr.org/papers/v22/20-1429.html) [[arxiv]](https://arxiv.org/abs/2012.07348)  
 Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on Operations of People-Centric Systems (EC '21)
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
