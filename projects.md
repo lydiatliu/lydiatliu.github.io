@@ -87,7 +87,8 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 ### Talks
 
 * **Learning in Decentralized Matching Markets**
-  * Foundations of Data Science Institute (FODSI) Seminar, May 2021.
+  * Foundations of Data Science Institute (FODSI) Seminar, May 2021. [[slides]](/assets/learning_markets.pdf)
+  * Beneficial AI Seminar, Center for Human-Compatible AI (CHAI), Berkeley, CA. Jun 2021.
 
 * **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally**  
   * University of Bristol Data Science seminar, Bristol, England. (Zoom) Jan 2021.
