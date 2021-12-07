@@ -19,7 +19,8 @@ I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.co
 
 
 
-<!--**News** | Our manuscript [Bandit Learning in Decentralized Matching Markets](https://arxiv.org/abs/2012.07348) is on arXiv. -->
+**News** | _Bandit Learning in Decentralized Matching Markets_ appears in the latest volume of [Journal of Machine Learning Research (JMLR)](https://jmlr.org/papers/v22/20-1429.html). See [poster](/assets/decentralizedbandits_poster.pdf) and FODSI [talk](/assets/learning_markets.pdf)!
+
 
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
