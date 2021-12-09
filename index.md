@@ -19,7 +19,7 @@ I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.co
 
 
 
-**News** | [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR! See [EC poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).
+**News** | I attended MIT [EECS Rising Stars 2021](https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/). [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR! See [EC poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).
 
 
 			
