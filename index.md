@@ -19,7 +19,7 @@ I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.co
 
 
 
-> **Updates**. I attended MIT [EECS Rising Stars 2021](https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/)---apply for the [fall 2022 workshop at UT Austin](https://risingstars21-eecs.mit.edu)! [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR. See [EC workshop poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).
+> **Updates**. I attended MIT [EECS Rising Stars Workshop 2021](https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/)---[apply](https://risingstars21-eecs.mit.edu) for the fall 2022 workshop at UT Austin! [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR. See [EC workshop poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).
 
 
 			
