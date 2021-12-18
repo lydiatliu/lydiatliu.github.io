@@ -14,7 +14,7 @@ A preliminary version appeared as a poster at the Research Conference on Communi
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
 _arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)  
-A preliminary version appeared as a poster at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/).
+A preliminary version appeared as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/).
 
 
 ### Publications
