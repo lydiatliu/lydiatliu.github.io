@@ -11,7 +11,7 @@ title: Research
 A preliminary version ("Promises and Pitfalls of Machine Learning in Education") was presented as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
 
  
-### Publications
+### Peer-reviewed publications
 
 #### Conference proceedings
 
