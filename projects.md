@@ -6,18 +6,19 @@ title: Research
 ### Manuscripts
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
-**Promises and Pitfalls of Machine Learning in Education.**  
-A preliminary version appeared as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
-
-* Lydia T. Liu, Nikhil Garg, Christian Borgs.  
-**Strategic ranking.**  
-_arXiv preprint_, 2021. [[arxiv]](https://arxiv.org/abs/2109.08240)  
-A preliminary version appeared as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO ’21)](https://eaamo.org/).
+**Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**  
+*Manuscript in submission.*  
+A preliminary version ("Promises and Pitfalls of Machine Learning in Education") was presented as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
 
  
 ### Publications
 
 #### Conference proceedings
+
+* Lydia T. Liu, Nikhil Garg, Christian Borgs.  
+**Strategic ranking.**  
+*Proceedings of The 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, to appear. [[arxiv]](https://arxiv.org/abs/2109.08240)  
+Presented as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO)](https://eaamo.org/), 2021.
 
 * Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.  
 **Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning.**  
@@ -25,7 +26,7 @@ A preliminary version appeared as a [poster](/assets/strategic_ranking_poster.pd
 
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
-*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2020. [[arxiv]](https://arxiv.org/abs/1906.05363)
+*Proceedings of The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2020. [[arxiv]](https://arxiv.org/abs/1906.05363)
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
