@@ -74,11 +74,12 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 
 *<sup>\*</sup> <sup>^</sup> equal contribution*
 
-### Technical reports
+<!--### Technical reports
 
 * Lydia T. Liu.  
 [**On the two-sample statistic approach to generative adversarial networks.**](http://arks.princeton.edu/ark:/88435/dsp0179408079v)  
 Undergraduate Senior Thesis, Princeton University, Spring 2017.  
+-->
 
 
 ### Blog posts
