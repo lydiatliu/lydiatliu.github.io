@@ -17,7 +17,7 @@ A preliminary version ("Promises and Pitfalls of Machine Learning in Education")
 
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
-*Proceedings of The 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, to appear. [[arxiv]](https://arxiv.org/abs/2109.08240)  
+*Proceedings of The 25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2022. [[arxiv]](https://arxiv.org/abs/2109.08240)  
 Presented as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization [(EAAMO)](https://eaamo.org/), 2021.
 
 * Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.  
