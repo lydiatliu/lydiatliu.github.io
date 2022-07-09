@@ -94,6 +94,10 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
 * **Social Dynamics of Machine Learning for Decision Making**
   * BIRS Workshop on ["New Interactions Between Statistics and Optimization"](https://www.birs.ca/events/2022/5-day-workshops/22w5094), Banff, Canada. May 2021. [[talk]](https://www.birs.ca/events/2022/5-day-workshops/22w5094/videos/watch/202205231533-Liu.html)
 
+* **Reimagining the Machine Learning Life Cycle in Education**
+  * BAIR/CPAR/BDD seminar, Berkeley, CA. Feb 2022. [[slides]](/assets/ml4ed-bair-talk.pdf)
+  * Everyday AI Make-a-thon (with Serena Wang), MIT, Cambridge, MA. Mar 2022.
+
 * **Learning in Decentralized Matching Markets**
   * Foundations of Data Science Institute (FODSI) Seminar, May 2021. [[slides]](/assets/learning_markets.pdf)
   * Beneficial AI Seminar, Center for Human-Compatible AI (CHAI), Berkeley, CA. Jun 2021.
