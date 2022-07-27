@@ -15,7 +15,7 @@ Lydia's poems have appeared or are forthcoming in:
 
 > *The Columbia Review* ([102:1](https://issuu.com/thecolumbiareview/docs/fall2020combinedd)), "the problem of deer in singapore".
 
-> *Berkeley Poetry Review* ([51](https://www.ocf.berkeley.edu/~bpr/past-issues/51st-issue/)) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/), "The problem of deer".
+> *Berkeley Poetry Review* ([51](https://www.ocf.berkeley.edu/~bpr/past-issues/51st-issue/)) and [*MIDTERM FOUR*](https://www.ocf.berkeley.edu/~bpr/midterm-four/), ["The problem of deer"](https://poetrysociety.org/poems/the-problem-of-deer).
 
 > *Indiana Review* (41:2), "Here".
 
@@ -25,7 +25,7 @@ Lydia's poems have appeared or are forthcoming in:
 
 > *Frogpond* ([41:2](/poems/blackberry.md), 42:1).
 
-She is a recipient of the Bain-Swiggett Poetry Prize from Princeton University (2016), the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley (2019), and the C.D. Wright Memorial Scholarship from [the Poetry Program at the Community of Writers](https://communityofwriters.org/workshops/poetry-workshop/) (2020). Lydia believes in voice and has read at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) at UC Berkeley and at the [David Ireland House](https://500cappstreet.org/) in San Francisco [with friends](https://500cappstreet.org/uncategorized/the-house-at-night-la-casita-en-la-nochecita/). She has been [interviewed](http://bhreview.org/2022/01/20/contributor-spotlight-lydia-t-liu/) for her work by Bellingham Review.
+She has received the Bain-Swiggett Poetry Prize from Princeton University (2016), the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley (2019), and the C.D. Wright Memorial Scholarship from [the Poetry Program at the Community of Writers](https://communityofwriters.org/workshops/poetry-workshop/) (2020), and was a finalist in the [2022 Poetry Society of America Chapbook Fellowship](https://poetrysociety.org/about/news/announcing-the-winners-of-the-2022-poetry-society-of-america-chapbook-fellowships) contest, selected by Eileen Myles. Lydia believes in voice and has read at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) at UC Berkeley and at the [David Ireland House](https://500cappstreet.org/) in San Francisco [with friends](https://500cappstreet.org/uncategorized/the-house-at-night-la-casita-en-la-nochecita/). She has been [interviewed](http://bhreview.org/2022/01/20/contributor-spotlight-lydia-t-liu/) for her work by Bellingham Review.
 
 
 ![Keep calm and drink tea](img/2020_reading_2.png)  
