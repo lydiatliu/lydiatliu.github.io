@@ -20,7 +20,7 @@ Previously, I received my BSE in [Operations Research and Financial Engineering]
 
 
 
-> **Updates**. (May 2022) I graduated from Berkeley! My dissertation: [_Social Dynamics of Machine Learning for Decision Making_](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-41.html).
+> **Updates**. (Sep 2022) Our cross-disciplinary study, **Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**, is on [ArXiv](http://arxiv.org/abs/2209.03929)!
 <!--  (Oct 2021) [I attended MIT EECS Rising Stars 2021](https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/)---[apply](https://risingstars21-eecs.mit.edu) for the fall 2022 workshop at UT Austin! We presented our [poster for _Strategic ranking_](/assets/strategic_ranking_poster.pdf) at the inaugural ACM conference on EAAMO. [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR. See [EC workshop poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).--> 
 
 
