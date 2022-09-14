@@ -77,7 +77,7 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 ### Technical reports
 
 * [**Social Dynamics of Machine Learning for Decision Making**](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-41.html).  
-  PhD Dissertation, University of California Berkeley, Spring 2022 
+  PhD Dissertation, University of California Berkeley, Spring 2022. 
 
 <!-- * [**On the two-sample statistic approach to generative adversarial networks.**](http://arks.princeton.edu/ark:/88435/dsp0179408079v)  
 Undergraduate Senior Thesis, Princeton University, Spring 2017.  
