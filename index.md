@@ -15,6 +15,8 @@ I obtained my PhD in [Electrical Engineering and Computer Sciences](https://eecs
 
 Previously, I received my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University. I have also spent two wonderful summers interning at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
 
+**I am on the faculty job market for 2022-2023!**
+
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
 [*My work as a poet.*](/writing)
 
