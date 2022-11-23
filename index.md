@@ -17,14 +17,11 @@ Previously, I received my BSE in [Operations Research and Financial Engineering]
 
 **I am on the faculty job market for 2022-2023!**
 
-<!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
-[*My work as a poet.*](/writing)
-
-
 Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
+[*My work as a poet.*](/writing)
 
 <!-- **Updates**. 
 > (Nov 2022) I gave a talk at the Simons workshop on Societal Considerations and Applications.
