@@ -6,8 +6,8 @@ title: Research
 ### Manuscripts
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
-**Lost in Translation: Reimagining the Machine Learning Life Cycle in Education**  
-*Manuscript in submission.* [[arxiv]](http://arxiv.org/abs/2209.03929) [[slides]](/assets/ml4ed-bair-talk.pdf)  
+**Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
+*Accepted for publication in the Proceedings of the National Academy of Sciences (PNAS).* [[draft on arxiv]](http://arxiv.org/abs/2209.03929) [[slides]](/assets/ml4ed-bair-talk.pdf)  
 A preliminary version ("Promises and Pitfalls of Machine Learning in Education") was presented as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
 
  
