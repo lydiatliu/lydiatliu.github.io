@@ -20,9 +20,13 @@ Previously, I received my BSE in [Operations Research and Financial Engineering]
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
 [*My work as a poet.*](/writing)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-> **Updates**. (Sep 2022) Our cross-disciplinary study of machine learning in education, *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, is on [arXiv](http://arxiv.org/abs/2209.03929).
+
+> **Updates**. 
+> (Nov 2022) I gave a talk at the Simons workshop on Societal Considerations and Applications.
+> (Sep 2022) Our cross-disciplinary study of machine learning in education, *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, is on [arXiv](http://arxiv.org/abs/2209.03929).
 <!--  (Oct 2021) [I attended MIT EECS Rising Stars 2021](https://risingstars21-eecs.mit.edu/liu-lydia-tingruo/)---[apply](https://risingstars21-eecs.mit.edu) for the fall 2022 workshop at UT Austin! We presented our [poster for _Strategic ranking_](/assets/strategic_ranking_poster.pdf) at the inaugural ACM conference on EAAMO. [_Bandit Learning in Decentralized Matching Markets_](https://jmlr.org/papers/v22/20-1429.html) is in vol. 22 of JMLR. See [EC workshop poster](/assets/decentralizedbandits_poster.pdf) and [FODSI talk](/assets/learning_markets.pdf).--> 
 
 
