@@ -7,7 +7,7 @@ title: Writing
 
 Lydia's poems have appeared or are forthcoming in:
 
-> *CHERRY MOON: Emerging Voices from the Asian Diaspora*, ["Antechamber"](https://www.gasherjournal.com/cherrymoon).
+> [*CHERRY MOON: Emerging Voices from the Asian Diaspora*](https://www.gasherjournal.com/cherrymoon), "Antechamber".
 
 > *Bellingham Review* (83), ["paean to hair"](http://bhreview.org/2021/11/12/paean-to-hair/).
 
