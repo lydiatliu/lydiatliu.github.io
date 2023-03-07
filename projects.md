@@ -3,15 +3,33 @@ layout: default
 title: Research
 ---
 
-### Manuscripts
-
-* Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
-**Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
-*Accepted for publication in the Proceedings of the National Academy of Sciences (PNAS).* [[draft on arxiv]](http://arxiv.org/abs/2209.03929) [[slides]](/assets/ml4ed-bair-talk.pdf)  
-A preliminary version ("Promises and Pitfalls of Machine Learning in Education") was presented as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
+<!--### Manuscripts-->
 
  
 ### Peer-reviewed publications
+
+#### Journal articles
+
+
+* Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
+**Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
+*Proceedings of the National Academy of Sciences 120.9 (2023): e2204781120.* <!--[[arxiv]](http://arxiv.org/abs/2209.03929)--> [[eprint]](https://www.pnas.org/eprint/3RXWD4U8UFVCHHUWGFGY/full) [[slides]](/assets/ml4ed-bair-talk.pdf)  
+A preliminary version ("Promises and Pitfalls of Machine Learning in Education") was presented as a poster at the Research Conference on Communications, Information, and Internet Policy [(TPRC 2021)](https://www.tprcweb.com).
+
+
+* Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
+**Bandit Learning in Decentralized Matching Markets.**  
+*Journal of Machine Learning Research*, 22(211):1−34, 2021. [[journal]](https://jmlr.org/papers/v22/20-1429.html) [[arxiv]](https://arxiv.org/abs/2012.07348)  
+Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on Operations of People-Centric Systems (EC '21)
+
+* Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
+**Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
+*IEEE Transactions on Image Processing, vol. 29, pp. 6069-6081, 2020.* [[doi]](https://doi.org/10.1109/TIP.2020.2988139) [[arxiv]](https://arxiv.org/abs/1812.08789) 
+
+* Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer.  
+***e*****PCA: High Dimensional Exponential Family PCA.**  
+*Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
+
 
 #### Conference proceedings
 
@@ -45,20 +63,6 @@ Presented as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM confere
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](https://arxiv.org/abs/1803.04383) [[code]](https://github.com/lydiatliu/delayedimpact)
 
-#### Journal articles
-
-* Lydia T. Liu, Feng Ruan, Horia Mania, Michael I. Jordan.  
-**Bandit Learning in Decentralized Matching Markets.**  
-*Journal of Machine Learning Research*, 22(211):1−34, 2021. [[journal]](https://jmlr.org/papers/v22/20-1429.html) [[arxiv]](https://arxiv.org/abs/2012.07348)  
-Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on Operations of People-Centric Systems (EC '21)
-
-* Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
-**Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
-*IEEE Transactions on Image Processing, vol. 29, pp. 6069-6081, 2020.* [[doi]](https://doi.org/10.1109/TIP.2020.2988139) [[arxiv]](https://arxiv.org/abs/1812.08789) 
-
-* Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer.  
-***e*****PCA: High Dimensional Exponential Family PCA.**  
-*Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
 
 #### Workshop proceedings 
