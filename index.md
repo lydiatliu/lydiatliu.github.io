@@ -15,10 +15,10 @@ I obtained my PhD in [Electrical Engineering and Computer Sciences](https://eecs
 
 Previously, I received my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University. I have also spent two wonderful summers interning at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
 
-**I am on the faculty job market for 2022-2023!**
+<!--**I am on the faculty job market for 2022-2023!**
 
 Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
 [*My work as a poet.*](/writing)
