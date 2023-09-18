@@ -3,7 +3,12 @@ layout: default
 title: Research
 ---
 
-<!--### Manuscripts-->
+### Manuscripts
+
+* Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
+**On the Actionability of Outcome Prediction.**  
+_arXiv preprint_, 2023. [[arxiv]](https://arxiv.org/abs/2309.04470)
+
 
  
 ### Peer-reviewed publications
