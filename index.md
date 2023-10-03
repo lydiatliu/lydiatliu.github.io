@@ -8,12 +8,16 @@ title: Lydia T. Liu | University of California, Berkeley
 
 <img src="img/2021.jpg" alt="Photo" class="leftside_image" title="Hello!">
 
-I am a postdoctoral researcher at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in  the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. My research examines the **theoretical foundations of machine learning and algorithmic decision-making**, with a focus on **societal impact and welfare.** <!-- Other interests include microeconomics and high-dimensional statistics.--> 
+I am a postdoctoral researcher at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in  the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. My research examines the theoretical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and welfare. <!-- Other interests include microeconomics and high-dimensional statistics.--> 
+
 
 I obtained my PhD in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley in May 2022. My advisors were [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). I received a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award.
 
 
 Previously, I received my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University. I have also spent two wonderful summers interning at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
+
+
+**From January 2024, I will be assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University.** Students interested in my research group should apply to our [PhD program](https://www.cs.princeton.edu/grad) this fall.
 
 <!--**I am on the faculty job market for 2022-2023!**
 
