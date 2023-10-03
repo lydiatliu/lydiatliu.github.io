@@ -8,7 +8,7 @@ title: Lydia T. Liu | University of California, Berkeley
 
 <img src="img/2021.jpg" alt="Photo" class="leftside_image" title="Hello!">
 
-I am a postdoctoral researcher at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in  the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. My research examines the *theoretical foundations of machine learning and algorithmic decision-making*, with a focus on *societal impact and welfare*. <!-- Other interests include microeconomics and high-dimensional statistics.--> 
+I am a postdoctoral researcher at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in  the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. My research examines the **theoretical foundations of machine learning and algorithmic decision-making**, with a focus on **societal impact and welfare**. <!-- Other interests include microeconomics and high-dimensional statistics.--> 
 
 
 **From January 2024, I will be assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University.** Students interested in my research group should apply to our [PhD program](https://www.cs.princeton.edu/grad) this fall!
