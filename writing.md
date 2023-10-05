@@ -31,7 +31,7 @@ Lydia's poems have appeared or are forthcoming in:
 
 She is a finalist in the [2022 Poetry Society of America Chapbook Fellowship](https://poetrysociety.org/about/news/announcing-the-winners-of-the-2022-poetry-society-of-america-chapbook-fellowships) contest, selected by Eileen Myles, and a recipient of the Bain-Swiggett Poetry Prize from Princeton University (2016), the Dorothy Rosenberg Memorial Prize in Lyric Poetry from UC Berkeley (2019), and the C.D. Wright Memorial Scholarship from [the Poetry Program at the Community of Writers](https://communityofwriters.org/workshops/poetry-workshop/) (2020). Lydia believes in voice and has read at the [Holloway Reading Series](https://hollowayreadingseries.wordpress.com/2021/01/26/fall-2020/) at UC Berkeley and at the [David Ireland House](https://500cappstreet.org/) in San Francisco [with friends](https://500cappstreet.org/uncategorized/the-house-at-night-la-casita-en-la-nochecita/). 
 
-#### Other fun artifacts
+#### Miscellany
 
 > An [interview](https://bhreview.org/2022/01/20/contributor-spotlight-lydia-t-liu/) with Bellingham Review, January 2022.
 
