@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lydia T. Liu | University of California, Berkeley
+title: Lydia T. Liu 
 ---
 	
 	
