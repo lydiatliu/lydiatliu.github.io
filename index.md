@@ -17,10 +17,11 @@ I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://ee
 Previously, I completed my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University. I have also spent two wonderful summers at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
 
 
+ **Updates**. 
+> I'm co-organizing the AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024, in Vancouver, BC, Canada!
 
-<!--**I am on the faculty job market for 2022-2023!**
 
-Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
+<!--Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
