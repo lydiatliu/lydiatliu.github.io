@@ -8,7 +8,7 @@ title: Lydia T. Liu
 
 <img src="img/2021.jpg" alt="Photo" class="leftside_image" title="Hello!">
 
-I am assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University. My current research examines the **theoretical foundations of machine learning and algorithmic decision-making**, with a focus on **societal impact and welfare**.
+I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. My current research examines the **theoretical foundations of machine learning and algorithmic decision-making**, with a focus on **societal impact and welfare**.
 
  I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley, in May 2022, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). In 2022-2023, I was a postdoctoral associate at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. I received a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
 
