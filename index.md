@@ -15,6 +15,20 @@ I am assistant professor of [Computer Science](https://www.cs.princeton.edu) at 
 Previously, I completed my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University. I have also spent two wonderful summers at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
 
 
+## Selected Publications
+
+* Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
+**On the Actionability of Outcome Prediction.**  
+Proceedings of the AAAI conference on Artificial Intelligence, to appear. [[arxiv]](https://arxiv.org/abs/2309.04470)
+
+* Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
+**Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
+*Proceedings of the National Academy of Sciences 120.9 (2023): e2204781120.* [[arxiv]](http://arxiv.org/abs/2209.03929) [[eprint]](https://www.pnas.org/eprint/3RXWD4U8UFVCHHUWGFGY/full) [[slides]](/assets/ml4ed-bair-talk.pdf)  
+
+* Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt.  
+**Delayed Impact of Fair Machine Learning.**  
+*Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
+
  *Upcoming events*
 > I am teaching a [graduate seminar](/teaching) on Responsible AI in Spring 2024.  
 > I'm co-organizing the AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024, in Vancouver, BC, Canada!
