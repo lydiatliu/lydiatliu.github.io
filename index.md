@@ -19,7 +19,7 @@ Previously, I completed my B.S.E. in [Operations Research and Financial Engineer
 
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
-Proceedings of the AAAI conference on Artificial Intelligence, to appear. [[arxiv]](https://arxiv.org/abs/2309.04470)
+Proceedings of the AAAI conference on Artificial Intelligence, to appear (2024). [[arxiv]](https://arxiv.org/abs/2309.04470)
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
 **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
