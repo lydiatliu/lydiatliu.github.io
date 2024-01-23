@@ -15,7 +15,7 @@ I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) a
 Previously, I completed my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at Princeton University. I have also spent two wonderful summers at Microsoft Research, most recently at [MSR New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2019.
 
 
-### Selected Publications
+*Selected Publications*
 
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
@@ -29,7 +29,7 @@ Previously, I completed my B.S.E. in [Operations Research and Financial Engineer
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
- *Upcoming events*
+*Upcoming events*
 > I am teaching a new [graduate seminar](/teaching) on Responsible AI in Spring 2024!  
 > I'm co-organizing the AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024, in Vancouver, BC, Canada!
 
