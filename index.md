@@ -23,7 +23,7 @@ Proceedings of the AAAI conference on Artificial Intelligence, to appear. [[arxi
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
 **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
-*Proceedings of the National Academy of Sciences 120.9 (2023): e2204781120.* [[arxiv]](http://arxiv.org/abs/2209.03929) [[eprint]](https://www.pnas.org/eprint/3RXWD4U8UFVCHHUWGFGY/full) [[slides]](/assets/ml4ed-bair-talk.pdf)  
+*Proceedings of the National Academy of Sciences 120.9 (2023): e2204781120.* [[arxiv]](http://arxiv.org/abs/2209.03929) <!--[[eprint]](https://www.pnas.org/eprint/3RXWD4U8UFVCHHUWGFGY/full) [[slides]](/assets/ml4ed-bair-talk.pdf) --> 
 
 * Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt.  
 **Delayed Impact of Fair Machine Learning.**  
