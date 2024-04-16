@@ -35,7 +35,7 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
-_Proceedings of the AAAI conference on Artificial Intelligence_, 2024. [[arxiv]](https://arxiv.org/abs/2309.04470)
+_Proceedings of the AAAI conference on Artificial Intelligence_, 2024. [[doi]](https://doi.org/10.1609/aaai.v38i20.30229) [[arxiv]](https://arxiv.org/abs/2309.04470)
 
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
