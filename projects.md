@@ -153,8 +153,10 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
   
 ### Workshops co-organized
 
+* AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024. Vancouver, BC, Canada.
+
 * NeurIPS 2020 Workshop on [**Consequential Decision Making
-in Dynamic Environments**](https://dynamicdecisions.github.io/).
+in Dynamic Environments**](https://dynamicdecisions.github.io/). Virtual.
 
 ### Other links  
 Our work has been featured in:
