@@ -5,11 +5,6 @@ title: Research
 
 ### Manuscripts
 
-* Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
-**On the Actionability of Outcome Prediction.**  
-_Proceedings of the AAAI conference on Artificial Intelligence_, to appear. [[arxiv]](https://arxiv.org/abs/2309.04470)
-
-
  
 ### Peer-reviewed publications
 
@@ -37,6 +32,10 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 
 
 #### Conference proceedings
+
+* Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
+**On the Actionability of Outcome Prediction.**  
+_Proceedings of the AAAI conference on Artificial Intelligence_, 2024. [[arxiv]](https://arxiv.org/abs/2309.04470)
 
 * Lydia T. Liu, Nikhil Garg, Christian Borgs.  
 **Strategic ranking.**  
