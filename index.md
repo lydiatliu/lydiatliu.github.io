@@ -32,7 +32,6 @@ Previously, I completed my B.S.E. in [Operations Research and Financial Engineer
 
 *Upcoming events*
 > I am teaching a new [graduate seminar](/teaching) on Responsible AI in Spring 2024!  
-> I'm co-organizing the AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024, in Vancouver, BC, Canada!
 
 
 <!--Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
