@@ -104,10 +104,17 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
 * [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. *Berkeley AI Research Blog.* May 2018.
 
 
-### Talks
+### Selected Talks
 
+* **Minding the actionability gap of predictions in responsible AI: lessons from education**
+  * Columbia Business School Workshop on _Challenges in Operationalizing Responsible AI_, New York, NY. Oct, 2023.
+
+* **What Really Matters for Fairness in Machine Learning: Delayed Impact and Other Desiderata**
+  * Simons Institute workshop on _Societal Considerations and Applications_, Berkeley, CA. Nov 2022. [[video]](https://www.youtube.com/embed/P1SBnDTylko)
+  * Joint Statiscal Meetings (JSM) Session on _Ethics and Trust in Statistical Learning_, Toronto, Canada. Aug 2023.
+ 
 * **Social Dynamics of Machine Learning for Decision Making**
-  * BIRS Workshop on ["New Interactions Between Statistics and Optimization"](https://www.birs.ca/events/2022/5-day-workshops/22w5094), Banff, Canada. May 2022. <!--[[talk]](https://www.birs.ca/events/2022/5-day-workshops/22w5094/videos/watch/202205231533-Liu.html)-->
+  * BIRS Workshop on [_New Interactions Between Statistics and Optimization_](https://www.birs.ca/events/2022/5-day-workshops/22w5094), Banff, Canada. May 2022. <!--[[talk]](https://www.birs.ca/events/2022/5-day-workshops/22w5094/videos/watch/202205231533-Liu.html)-->
 
 * **Reimagining the Machine Learning Life Cycle in Education**
   * BAIR/CPAR/BDD seminar, Berkeley, CA. Feb 2022. [[slides]](/assets/ml4ed-bair-talk.pdf)
