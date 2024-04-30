@@ -31,7 +31,7 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 
 *News (Spring 2024)*
 
-> I received an Amazon Research Award for the proposal _From Predictions to Positive Impact: Foundations of Responsible AI in Social Systems_!
+> I received an Amazon Research Award for the proposal _From Predictions to Positive Impact: Foundations of Responsible AI in Social Systems_.  
 > I am co-organizing the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan, June 3-7, 2024. Talks will be available online.
 
 
