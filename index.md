@@ -33,7 +33,7 @@ Previously, I completed my B.S.E. in [Operations Research and Financial Engineer
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
 *Upcoming events*
-> I am co-organizing the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan. Talks will be available online.
+> I am co-organizing the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan, June 3-7, 2024. Talks will be available online.
 
 
 <!--Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
