@@ -8,7 +8,7 @@ title: Lydia T. Liu
 
 <img src="img/2021.jpg" alt="Photo" class="leftside_image" title="Hello!">
 
-I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the **scientific** and **normative foundations** of **machine learning** and **algorithmic decision-making**, with a focus on **societal impact** and **welfare outcomes**.
+I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes.
 
  I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley, in May 2022, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). In 2022-2023, I was a postdoctoral associate at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. 
  
