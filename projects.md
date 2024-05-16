@@ -5,6 +5,9 @@ title: Research
 
 ### Manuscripts
 
+* Joshua Cohen and Lydia T. Liu.  
+**The Reach of Fairness.**    
+_Manuscript, in submission._
  
 ### Peer-reviewed publications
 
@@ -106,6 +109,7 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
 ### Selected Talks
 
 * **Minding the actionability gap of predictions in responsible AI: lessons from education**
+  * Tucker Holland Seminar, Educational Testing Service, Princeton, NJ. May 2024.
   * Columbia Business School Workshop on _Challenges in Operationalizing Responsible AI_, New York, NY. Oct, 2023.
 
 * **What Really Matters for Fairness in Machine Learning: Delayed Impact and Other Desiderata**
