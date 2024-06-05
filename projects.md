@@ -8,6 +8,10 @@ title: Research
 * Joshua Cohen and Lydia T. Liu.  
 **The Reach of Fairness.**    
 _Manuscript, in submission._
+
+* Inioluwa Deborah Raji and Lydia T. Liu.  
+**Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind.**  
+_Manuscript, in submission._
  
 ### Peer-reviewed publications
 
