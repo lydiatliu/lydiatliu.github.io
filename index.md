@@ -48,6 +48,6 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 
 
 			
-Email: `lydiatliu_at_berkeley_dot_edu`
+Email: `ltliu_at_princeton_dot_edu`
 
 
