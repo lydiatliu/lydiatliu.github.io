@@ -29,10 +29,13 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
-*News (Spring 2024)*
+*News (Summer 2024)*
 
-> I received an Amazon Research Award for the proposal _From Predictions to Positive Impact: Foundations of Responsible AI in Social Systems_.  
-> I am co-organizing the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan, June 3-7, 2024. Talks will be available online.
+> My students and I are presenting work ([Liu et al 2024](https://drive.google.com/file/d/1x4tdWdjRK-yB9-agNOPVFr4na-Q5QKYl/view?usp=sharing), [Raji and Liu 2024](), [Stroebl et al 2024]()) at the ICML 2024 Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact!  
+> I will be an invited speaker at TTIC Workshop on Data-Driven Decision Processes: From Theory to Practice (August 26-28).  
+
+<!--> I received an Amazon Research Award for the proposal _From Predictions to Positive Impact: Foundations of Responsible AI in Social Systems_.   --> 
+<!--> I co-organized the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan, June 3-7, 2024.--> 
 
 
 <!--Recent talk at the Simons Institute workshop on Societal Considerations and Applications (November 2022):
