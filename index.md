@@ -6,7 +6,7 @@ title: Lydia T. Liu
 	
 # Lydia T. Liu #
 
-<img src="img/2021.jpg" alt="Photo" class="leftside_image" title="Hello!">
+<img src="img/01 - Liu 2024 DKC - small.jpg" alt="Photo" class="leftside_image" title="Hello!">
 
 I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes.
 
