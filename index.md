@@ -30,7 +30,7 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
 *News (Summer 2024)*
-> This fall at Princeton I am teaching a new COS graduate seminar on ["AI, Society, and Education"](/teaching), focusing on  intervention design and evaluation science for AI in education and broadly related societal applications.
+> This fall at Princeton I am teaching a **new COS graduate seminar** on ["AI, Society, and Education"](/teaching), focusing on  intervention design and evaluation science for AI in education and broadly related societal applications.
 <!--
 > I am presenting work with my students and collaborators ([Liu et al 2024](https://drive.google.com/file/d/1x4tdWdjRK-yB9-agNOPVFr4na-Q5QKYl/view?usp=sharing), [Raji and Liu 2024](), [Stroebl et al 2024]()) at the ICML 2024 Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact!  
 > I will be an invited speaker at TTIC Workshop on Data-Driven Decision Processes: From Theory to Practice (August 26-28).
