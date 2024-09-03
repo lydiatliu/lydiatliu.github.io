@@ -34,6 +34,7 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 <!--
 > I am presenting work with my students and collaborators ([Liu et al 2024](https://drive.google.com/file/d/1x4tdWdjRK-yB9-agNOPVFr4na-Q5QKYl/view?usp=sharing), [Raji and Liu 2024](), [Stroebl et al 2024]()) at the ICML 2024 Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact!  
 > I will be an invited speaker at TTIC Workshop on Data-Driven Decision Processes: From Theory to Practice (August 26-28).
+--> 
 
 <!-- I received an Amazon Research Award for the proposal _From Predictions to Positive Impact: Foundations of Responsible AI in Social Systems_.   --> 
 <!-- I co-organized the [BIRS workshop](http://www.birs.ca/events/2024/5-day-workshops/24w5283) on _Bridging Prediction and Intervention Problems in Social Systems_ with  Inioluwa Deborah Raji, Angela Zhou, and Arvind Narayanan, June 3-7, 2024.--> 
