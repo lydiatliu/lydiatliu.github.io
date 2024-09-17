@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 ---
-Thank you for your interest in my research group! I am looking for motivated students and postdoc collaborators for the coming academic year.
+Thank you for your interest in my research group! I am looking for motivated students and postdoc collaborators for the current and coming academic year.
 
 If you’re interested in working together, please look at my [selected publications](/) or my [research page](/projects) to see my recent work, and my recent [courses](/teaching) to see what topics I'm currently thinking about.
 I encourage you to skim the abstracts and read a paper or two to ascertain if we have common interests. If you believe so, please follow the relevant instructions below.
