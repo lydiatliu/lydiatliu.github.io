@@ -16,7 +16,7 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 
 Prospective Student and Postdocs
 =
-Please see [this page.](/prospective)
+Please read [this page](/prospective) before reaching out.
 
 Selected Publications
 =
