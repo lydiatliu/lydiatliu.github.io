@@ -15,4 +15,4 @@ If you're already at Princeton, please review my [independent work research topi
 Please apply to the Center for Information Technology Policy [fellows program](https://citp.princeton.edu/about/hiring/) or other postdoctoral programs on campus, and signal an interest in collaborating on research with me.
 
 *Prospective PhD Students:* 
-Please apply to the PhD program in the Princeton Department of Computer Science and indicate an interest in working with me in your statement. **Due to a high volume of emails, I am unable to respond to individual email inquiries regarding PhD admissions.**
+Please apply to the PhD program in the Princeton [Department of Computer Science](https://www.cs.princeton.edu/grad) and indicate an interest in working with me in your statement. **Due to a high volume of emails, I am unable to respond to individual email inquiries regarding PhD admissions.**
