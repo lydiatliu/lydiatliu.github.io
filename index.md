@@ -14,8 +14,12 @@ I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) a
  
 I am the recepient of an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced), a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
 
-*Selected Publications*
+Prospective Student and Postdocs
+=
+Please see [this page.](/prospective)
 
+Selected Publications
+=
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
 *Proceedings of the AAAI conference on Artificial Intelligence*, to appear (2024). [[arxiv]](https://arxiv.org/abs/2309.04470)  
@@ -29,7 +33,8 @@ I am the recepient of an [Amazon Research Award](https://www.amazon.science/rese
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
-*News (Summer 2024)*
+News
+=
 > This fall at Princeton I am teaching a **new COS graduate seminar** on ["AI, Society, and Education"](/teaching), focusing on  intervention design and evaluation science for AI in education and broadly related societal applications.
 <!--
 > I am presenting work with my students and collaborators ([Liu et al 2024](https://drive.google.com/file/d/1x4tdWdjRK-yB9-agNOPVFr4na-Q5QKYl/view?usp=sharing), [Raji and Liu 2024](), [Stroebl et al 2024]()) at the ICML 2024 Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact!  
