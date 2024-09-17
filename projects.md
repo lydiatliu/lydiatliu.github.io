@@ -84,7 +84,7 @@ Presented as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM confere
 *International Conference on Machine Learning (ICML) Workshop on [Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact](https://humans-algs-society.github.io/papers/).*
 [[arxiv]](http://arxiv.org/abs/2407.20522)
 
-* Benedikt Stroebl, Rajiv Krishna Swamy, Lydia T. Liu.
+* Benedikt Stroebl, Rajiv Krishna Swamy, Lydia T. Liu.  
 **A Baseline that Matters: Categorical Prioritization as Benchmark for Social Policy Algorithms.**  
 *International Conference on Machine Learning (ICML) Workshop on [Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact](https://humans-algs-society.github.io/papers/).*
 [[poster]](https://drive.google.com/file/d/1zdla_9SCD8tsO07g5aqe34L00G1yGotn/view?usp=sharing)
