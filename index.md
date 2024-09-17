@@ -15,7 +15,7 @@ I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) a
 I am the recepient of an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced), a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
 
 ## Prospective Student and Postdocs
-Please read [this page](/prospective) before reaching out.
+Thank you for your interest. Please read [this page](/prospective) before reaching out.
 
 ## Selected Publications
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
