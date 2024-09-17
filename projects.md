@@ -124,7 +124,7 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
 ### Selected Talks
 
 * **Minding the actionability gap of predictions in responsible AI: lessons from education**  
-  * TTIC Wokrshop on Data-Driven Decision Processes: From Theory to Practice, Chicago, IL. Aug 2024.
+  * TTIC Workshop on Data-Driven Decision Processes: From Theory to Practice, Chicago, IL. Aug 2024.
   * Tucker Holland Seminar, Educational Testing Service, Princeton, NJ. May 2024.
   * Columbia Business School Workshop on _Challenges in Operationalizing Responsible AI_, New York, NY. Oct, 2023.
 
