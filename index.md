@@ -46,7 +46,7 @@ Please read [this page](/prospective) before reaching out. Thank you.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
-[*My work as a poet.*](/writing)
+[*My work as a poet.*](https://lydialiupoet.com/the-problem-of-deer)
 
 <!-- **Updates**. 
 > (Nov 2022) I gave a talk at the Simons workshop on Societal Considerations and Applications.
