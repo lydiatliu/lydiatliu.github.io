@@ -33,12 +33,12 @@ Please read [this page](/prospective) before reaching out. Thank you.
 
 ## News
 Jan 2025  
-> Paper with Josh Cohen on _The Reach of Fairness_ to appear in Journal for Responsible Computing, addressing fundamental and practical questions about the scope of algorithmic fairness.  
-> Paper with Inioluwa Deborah Raji on _Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind_ accepted in AISTATS 2025!  
-> Successfully wrapped up the first graduate course at Princeton on  ["AI, Society, and Education"](/teaching), with guest speakers from Khan Academy, Duolingo, Stanford, and more. Congratulations to three course project groups for their acceptance to the AAAI 2025 [iRAISE Workshop](https://iraise-25-aaai.my.canva.site/) - including one spotlight presentation!  
+* Paper with Josh Cohen on _The Reach of Fairness_ to appear in Journal for Responsible Computing, addressing fundamental and practical questions about the scope of algorithmic fairness.  
+* Paper with Inioluwa Deborah Raji on _Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind_ accepted in AISTATS 2025!  
+* Successfully wrapped up the first graduate course at Princeton on  ["AI, Society, and Education"](/teaching), with guest speakers from Khan Academy, Duolingo, Stanford, and more. Congratulations to three course project groups for their acceptance to the AAAI 2025 [iRAISE Workshop](https://iraise-25-aaai.my.canva.site/) - including one spotlight presentation!  
 
 Aug 2024   
-> Excited to be recognized in the _Princeton Engineering Commendation List for Outstanding Teaching_.  
+* Excited to be recognized in the _Princeton Engineering Commendation List for Outstanding Teaching_.  
 <!--
 > I am presenting work with my students and collaborators ([Liu et al 2024](https://drive.google.com/file/d/1x4tdWdjRK-yB9-agNOPVFr4na-Q5QKYl/view?usp=sharing), [Raji and Liu 2024](), [Stroebl et al 2024]()) at the ICML 2024 Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact!  
 > I will be an invited speaker at TTIC Workshop on Data-Driven Decision Processes: From Theory to Practice (August 26-28).
