@@ -7,11 +7,11 @@ title: Research
 
 * Joshua Cohen and Lydia T. Liu.  
 **The Reach of Fairness.**    
-_Manuscript, in submission._
+_ACM Journal on Responsible Computing_, to appear.
 
 * Inioluwa Deborah Raji and Lydia T. Liu.  
 **Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind.**  
-_Manuscript, in submission._  
+_AISTATS 2025_, to appear.  
 A preliminary version was presented as a poster at the ICML 2024 workshop on [Humans, Algorithmic Decision-Making and Society](https://humans-algs-society.github.io/papers/).
  
 ### Peer-reviewed publications
