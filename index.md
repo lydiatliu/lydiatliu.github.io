@@ -33,6 +33,7 @@ Please read [this page](/prospective) before reaching out. Thank you.
 
 ## News
 Jan 2025  
+* I am serving as ethics chair of ICML 2025, alongside Kevin Jamieson. Grateful for the opportunity to give back to the ICML community!  
 * I will be an invited speaker at the AAAI Workshop on Innovation and Responsibility in AI-Supported Education (iRAISE), Philadelphia, PA, March 3, 2025.  
 * Paper with Josh Cohen on _The Reach of Fairness_ to appear in Journal for Responsible Computing, addressing fundamental and practical questions about the scope of algorithmic fairness.  
 * Paper with Inioluwa Deborah Raji on _Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind_ accepted in AISTATS 2025!  
