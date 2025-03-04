@@ -8,11 +8,20 @@ title: Lydia T. Liu
 
 <img src="img/01 - Liu 2024 DKC - small.jpg" alt="Photo" class="leftside_image" title="Photo Credit: David Kelly Crow">
 
-I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes.
+I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes. I am an faculty affliate of the [Center for Information Technology Policy](https://citp.princeton.edu) and [Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
  I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley, in May 2022, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). In 2022-2023, I was a postdoctoral associate at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. 
  
 I am the recepient of an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced), a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
+
+For general audience articles about my recent work, see features by [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/lydia-liu-rethinking-ai’s-impact-society-through-lens-fairness) and [Department News](https://www.cs.princeton.edu/news/lydia-liu-expert-social-impacts-machine-learning-has-joined-faculty).
+
+<details>
+  <summary>Speaker Bio</summary>
+  <p>Lydia Liu is an Assistant Professor of Computer Science at Princeton University. Her research examines the theoretical foundations of machine learning and algorithmic decision-making, with a focus on long-term societal impact. She obtained her Ph.D. in electrical engineering and computer sciences from the University of California, Berkeley, and completed her postdoctoral research at Cornell University at the Artificial Intelligence, Policy, and Practice (AIPP) initiative.
+She is the recipient of an Amazon Research Award, fellowships from Microsoft and  Open Philanthropy, and an ICML Best Paper Award.</p>
+</details>
+
 
 ## Current PhD Students
 [Kara Schechtman](https://www.karaschechtman.com/about)
