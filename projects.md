@@ -7,7 +7,7 @@ title: Research
 
 * Joshua Cohen and Lydia T. Liu.  
 **The Reach of Fairness.**    
-_ACM Journal on Responsible Computing_, to appear.
+_ACM Journal on Responsible Computing_, to appear. [[preprint]](assets/acm_submission_final.pdf)
 
 * Inioluwa Deborah Raji and Lydia T. Liu.  
 **Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind.**  
