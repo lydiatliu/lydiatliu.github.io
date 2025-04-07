@@ -5,19 +5,18 @@ title: Research
 
 ### Manuscripts
 
-* Joshua Cohen and Lydia T. Liu.  
-**The Reach of Fairness.**    
-_ACM Journal on Responsible Computing_, to appear. [[preprint]](assets/acm_submission_final.pdf)
-
 * Inioluwa Deborah Raji and Lydia T. Liu.  
-**Designing Experimental Evaluations of Algorithmic Interventions with Human Decision Makers In Mind.**  
-_AISTATS 2025_, to appear.  
+**Evaluating Prediction-based Interventions with Human Decision Makers In Mind.**  
+_AISTATS 2025_, to appear.  [[arxiv]](https://arxiv.org/abs/2503.05704)  
 A preliminary version was presented as a poster at the ICML 2024 workshop on [Humans, Algorithmic Decision-Making and Society](https://humans-algs-society.github.io/papers/).
  
 ### Peer-reviewed publications
 
 #### Journal articles
 
+* Joshua Cohen and Lydia T. Liu.  
+**The Reach of Fairness.**    
+_ACM Journal on Responsible Computing_. Just Accepted (February 2025). [[eprint]](https://dl.acm.org/doi/abs/10.1145/3718989) [[preprint]](assets/acm_submission_final.pdf)
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
 **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.**  
