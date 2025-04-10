@@ -12,7 +12,7 @@ I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) a
 
  I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley, in May 2022, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). In 2022-2023, I was a postdoctoral associate at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. 
  
-I am the recepient of an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced), a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
+I am the recipient of an [Amazon Research Award](https://www.amazon.science/research-awards/program-updates/99-amazon-research-awards-recipients-announced), a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/), an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class), an NUS Development Grant, and an ICML Best Paper Award. 
 
 For general audience articles about my recent work, see features by [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/lydia-liu-rethinking-ai’s-impact-society-through-lens-fairness) and [Department News](https://www.cs.princeton.edu/news/lydia-liu-expert-social-impacts-machine-learning-has-joined-faculty).
 
@@ -44,6 +44,10 @@ Please read [this page](/prospective) before reaching out. Thank you.
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
 ## News
+Apr 2025
+* I am co-organizing the Simons Institute Workshop on [Bridging Prediction and Intervention Problems in Social Systems](https://simons.berkeley.edu/workshops/bridging-prediction-intervention-problems-social-systems) at the Simons Institute, Berkeley, CA,  Jan 12-16, 2026!  Excited for the second BRIPSS workshop after starting [the first one at BIRS](http://www.birs.ca/events/2024/5-day-workshops/24w5283).
+
+
 Jan 2025  
 * I am serving as ethics chair of ICML 2025, alongside Kevin Jamieson. Grateful for the opportunity to give back to the ICML community!
 * I will be an invited speaker at the [Women in Theory Workshop](https://womenintheory.wordpress.com) at the Simons Institute, Berkeley, CA,  Jun 3 – 6, 2025. 
