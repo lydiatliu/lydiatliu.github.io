@@ -5,10 +5,12 @@ title: Research
 
 ### Manuscripts
 
-* Inioluwa Deborah Raji and Lydia T. Liu.  
-**Evaluating Prediction-based Interventions with Human Decision Makers In Mind.**  
-_AISTATS 2025_, to appear.  [[arxiv]](https://arxiv.org/abs/2503.05704)  
-A preliminary version was presented as a poster at the ICML 2024 workshop on [Humans, Algorithmic Decision-Making and Society](https://humans-algs-society.github.io/papers/).
+* Sofiia Druchyna<sup>\*</sup>, Kara Schechtman<sup>\*</sup>, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>.  
+**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**
+[[arxiv]](https://arxiv.org/abs/2503.05704)  
+*Manuscript in submission.*   
+Poster to appear at [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025.  
+A preliminary version was accepted for presentation at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
  
 ### Peer-reviewed publications
 
@@ -39,6 +41,11 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 
 
 #### Conference proceedings
+
+* Inioluwa Deborah Raji and Lydia T. Liu.  
+**Evaluating Prediction-based Interventions with Human Decision Makers In Mind.**  
+*Proceedings of The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2025.  [[arxiv]](https://arxiv.org/abs/2503.05704)  
+A preliminary version was presented as a poster at the ICML 2024 workshop on [Humans, Algorithmic Decision-Making and Society](https://humans-algs-society.github.io/papers/).
 
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
@@ -77,6 +84,11 @@ Presented as a [poster](/assets/strategic_ranking_poster.pdf) at the ACM confere
 
 
 #### Workshop proceedings 
+
+* Jane Castleman, Nimra Nadeem, Tanvi Namjoshi, Lydia T. Liu.  
+**Rethinking Math Benchmarks: Implications for AI in Education.**  
+_Proceedings of the Innovation and Responsibility in AI-Supported Education Workshop._
+[[paper]](https://proceedings.mlr.press/v273/castleman25a.html)
 
 * Yuhan Liu, Yuhan Zheng, Siyuan Zhang, Lydia T. Liu.  
 **Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago.**  
