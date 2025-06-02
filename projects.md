@@ -7,7 +7,7 @@ title: Research
 
 * Sofiia Druchyna<sup>\*</sup>, Kara Schechtman<sup>\*</sup>, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>.  
 **Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**
-[[arxiv]](https://arxiv.org/abs/2503.05704)  
+[[arxiv]](http://arxiv.org/abs/2505.13325)  
 *Manuscript in submission.*   
 Poster to appear at [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025.  
 A preliminary version was accepted for presentation at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
