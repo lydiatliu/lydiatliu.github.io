@@ -7,7 +7,7 @@ title: Research
 
 * Inioluwa Deborah Raji, Lydia T. Liu, Angela Zhou, et al.  
 **Bridging Prediction and Intervention Problems in Social Systems.**  
-*Manuscript in preparation. Full author list and draft available upon request.*  
+*Working paper. Full author list and draft available upon request.*  
 <details> <summary><em>View abstract</em></summary>
 Many applications of algorithmic decision support (ADS) are often framed as isolated prediction problems—aimed at capturing relevant information about one population sample and extrapolating patterns to others. However, in practice, ADS systems act more like holistic policy interventions once deployed. Their predictions are shaped by complex interactions among stakeholders, infrastructures, and deployment contexts, which also mediate the system's real-world impact.
 
