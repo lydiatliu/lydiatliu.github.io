@@ -17,8 +17,8 @@ This white paper revisits the limitations of the prediction paradigm in describi
 
 
 * Kara Schechtman, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>.  
-**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**
-*Manuscript in submission.*   
+**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**  
+*Manuscript in submission.* [[arxiv]](https://arxiv.org/abs/2505.13325)  
 Poster to appear at [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025.  
 A preliminary version was accepted for presentation at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
  
