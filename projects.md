@@ -5,14 +5,17 @@ title: Research
 
 ### Manuscripts
 
-* Inioluwa Deborah Raji, Lydia T. Liu, Angela Zhou, et al.  
+* Lydia T. Liu<sup>\*</sup>, Inioluwa Deborah Raji<sup>\*</sup>, Angela Zhou<sup>\*</sup>, Luke Guerdan,
+  Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam,
+  Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli
+  Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion
+  Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh
+  Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik,
+  Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian,
+  Angelina Wang, Ashia Wilson.  
 **Bridging Prediction and Intervention Problems in Social Systems.**  
-*Working paper. Full author list and draft available upon request.*  
-<details> <summary><em>View abstract</em></summary>
-Many applications of algorithmic decision support (ADS) are often framed as isolated prediction problems—aimed at capturing relevant information about one population sample and extrapolating patterns to others. However, in practice, ADS systems act more like holistic policy interventions once deployed. Their predictions are shaped by complex interactions among stakeholders, infrastructures, and deployment contexts, which also mediate the system's real-world impact.
-
-This white paper revisits the limitations of the prediction paradigm in describing machine learning’s role in social systems. We offer statistical frameworks and tools to evaluate ADS models beyond prediction accuracy—advocating instead for an intervention-based lens in their design, evaluation, and implementation.
-
+*Working paper.*  [[arxiv]](https://arxiv.org/abs/2507.05216) <details> <summary><em>Abstract</em></summary>
+Many automated decision systems (ADS) are designed to solve prediction problems -- where the goal is to learn patterns from a sample of the population and apply them to individuals from the same population. In reality, these prediction systems operationalize holistic policy interventions in deployment. Once deployed, ADS can shape impacted population outcomes through an effective policy change in how decision-makers operate, while also being defined by past and present interactions between stakeholders and the limitations of existing organizational, as well as societal, infrastructure and context. In this work, we consider the ways in which we must shift from a prediction-focused paradigm to an interventionist paradigm when considering the impact of ADS within social systems. We argue this requires a new default problem setup for ADS beyond prediction, to instead consider predictions as decision support, final decisions, and outcomes. We highlight how this perspective unifies modern statistical frameworks and other tools to study the design, implementation, and evaluation of ADS systems, and point to the research directions necessary to operationalize this paradigm shift. Using these tools, we characterize the limitations of focusing on isolated prediction tasks, and lay the foundation for a more intervention-oriented approach to developing and deploying ADS.
 </details>
 
 
