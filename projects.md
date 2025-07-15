@@ -26,7 +26,7 @@ A preliminary version was accepted for presentation at the [Workshop on AI & Ana
 
 * Mark D. Verhagen, Benedikt Stroebl, Tiffany Liu, Lydia T. Liu, Matthew J. Salganik.  
   **The Book of Life approach: Enabling richness and scale for life course research.**  
-  Working Paper, 2025. [[arxiv]](http://arxiv.org/abs/2507.03027)  
+  *Working Paper*, 2025. [[arxiv]](http://arxiv.org/abs/2507.03027)  
 
  
 ### Peer-reviewed publications
