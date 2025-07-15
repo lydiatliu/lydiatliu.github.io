@@ -14,7 +14,7 @@ title: Research
   Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian,
   Angelina Wang, Ashia Wilson.  
 **Bridging Prediction and Intervention Problems in Social Systems.**  
-*Working White Paper.*  [[arxiv]](https://arxiv.org/abs/2507.05216) <details> <summary><em>Abstract</em></summary>
+*Working White Paper,* 2025.  [[arxiv]](https://arxiv.org/abs/2507.05216) <details><summary><em>Abstract</em></summary>
 Many automated decision systems (ADS) are designed to solve prediction problems -- where the goal is to learn patterns from a sample of the population and apply them to individuals from the same population. In reality, these prediction systems operationalize holistic policy interventions in deployment. Once deployed, ADS can shape impacted population outcomes through an effective policy change in how decision-makers operate, while also being defined by past and present interactions between stakeholders and the limitations of existing organizational, as well as societal, infrastructure and context. In this work, we consider the ways in which we must shift from a prediction-focused paradigm to an interventionist paradigm when considering the impact of ADS within social systems. We argue this requires a new default problem setup for ADS beyond prediction, to instead consider predictions as decision support, final decisions, and outcomes. We highlight how this perspective unifies modern statistical frameworks and other tools to study the design, implementation, and evaluation of ADS systems, and point to the research directions necessary to operationalize this paradigm shift. Using these tools, we characterize the limitations of focusing on isolated prediction tasks, and lay the foundation for a more intervention-oriented approach to developing and deploying ADS. </details>
 
 
@@ -25,8 +25,8 @@ Poster to appear at [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, Ju
 A preliminary version was accepted for presentation at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
 
 * Mark D. Verhagen, Benedikt Stroebl, Tiffany Liu, Lydia T. Liu, Matthew J. Salganik.  
-  **The Book of Life approach: Enabling richness and scale for life course research.**
-  [[arxiv]](http://arxiv.org/abs/2507.03027)  
+  **The Book of Life approach: Enabling richness and scale for life course research.**  
+  Working Paper, 2025. [[arxiv]](http://arxiv.org/abs/2507.03027)  
 
  
 ### Peer-reviewed publications
