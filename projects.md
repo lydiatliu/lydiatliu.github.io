@@ -201,7 +201,7 @@ Undergraduate Senior Thesis, Princeton University, Spring 2017.
   
 ### Workshops co-organized
 
-* BIRS workshop on [Bridging Prediction and Intervention Problems in Social Systems](http://www.birs.ca/events/2024/5-day-workshops/24w5283), June 3-7, 2024. Banff, AB, Canada.
+* BIRS workshop on [Bridging Prediction and Intervention Problems in Social Systems](http://www.birs.ca/events/2024/5-day-workshops/24w5283), June 3-7, 2024. Banff, AB, Canada. [[Workshop Report]](https://www.birs.ca/workshops/2024/24w5283/report24w5283.pdf)
 
 * AAAI 2024 [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024), Feb 26-27, 2024. Vancouver, BC, Canada.
 
