@@ -21,8 +21,7 @@ Many automated decision systems (ADS) are designed to solve prediction problems 
 * Kara Schechtman, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>.  
 **Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**  
 *To appear (Non-archival)*,  ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO). [[arxiv]](https://arxiv.org/abs/2505.13325)  
-Poster at [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025.  
-A preliminary version was accepted at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
+A preliminary version was presented at  [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025, and at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
 
 * Mark D. Verhagen, Benedikt Stroebl, Tiffany Liu, Lydia T. Liu, Matthew J. Salganik.  
   **The Book of Life approach: Enabling richness and scale for life course research.**  
