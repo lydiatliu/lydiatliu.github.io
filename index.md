@@ -30,9 +30,13 @@ She is the recipient of an Amazon Research Award, fellowships from Microsoft and
 Please read [this page](/prospective) before reaching out. Thank you.
 
 ## Selected Publications
+* Kara Schechtman, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>.  
+**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.**  
+ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), *to appear (non-archival)*, 2025. [[arxiv]](https://arxiv.org/abs/2505.13325)  
+
 * Lydia T. Liu, Solon Barocas, Jon Kleinberg, Karen Levy.  
 **On the Actionability of Outcome Prediction.**  
-*Proceedings of the AAAI conference on Artificial Intelligence*, to appear (2024). [[arxiv]](https://arxiv.org/abs/2309.04470)  
+*Proceedings of the AAAI conference on Artificial Intelligence* (2024). [[arxiv]](https://arxiv.org/abs/2309.04470)  
 [Research Summary](https://montrealethics.ai/on-the-actionability-of-outcome-prediction/) featured by the Montreal AI Ethics Institute.
 
 * Lydia T. Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup>^</sup>, Rediet Abebe<sup>^</sup>.  
