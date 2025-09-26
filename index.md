@@ -16,6 +16,8 @@ I am the recipient of an [Amazon Research Award](https://www.amazon.science/rese
 
 For general audience articles about my recent work, see features by [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/lydia-liu-rethinking-ai’s-impact-society-through-lens-fairness) and [Department News](https://www.cs.princeton.edu/news/lydia-liu-expert-social-impacts-machine-learning-has-joined-faculty).
 
+[My work as a poet](https://lydialiupoet.com/the-problem-of-deer) has been supported by a MacDowell fellowship.
+
 <details>
   <summary>Speaker Bio</summary>
   <p>Lydia Liu is an Assistant Professor of Computer Science at Princeton University. Her research examines the theoretical foundations of machine learning and algorithmic decision-making, with a focus on long-term societal impact. She obtained her Ph.D. in electrical engineering and computer sciences from the University of California, Berkeley, and completed her postdoctoral research at Cornell University at the Artificial Intelligence, Policy, and Practice (AIPP) initiative.
@@ -76,7 +78,6 @@ Aug 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1SBnDTylko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> 
 
 <!-- [pictures](https://www.flickr.com/photos/158535173@N08/) --> 
-[*My work as a poet.*](https://lydialiupoet.com/the-problem-of-deer)
 
 <!-- **Updates**. 
 > (Nov 2022) I gave a talk at the Simons workshop on Societal Considerations and Applications.
