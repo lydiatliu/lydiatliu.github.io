@@ -16,8 +16,6 @@ I am the recipient of an [Amazon Research Award](https://www.amazon.science/rese
 
 For general audience articles about my recent work, see features by [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/lydia-liu-rethinking-ai’s-impact-society-through-lens-fairness) and [Department News](https://www.cs.princeton.edu/news/lydia-liu-expert-social-impacts-machine-learning-has-joined-faculty).
 
-[![Poster of Recent Work](img/thumbnail.png)](https://drive.google.com/file/d/1Qso8WL55xtINyF9cNwZXz7UuLygR3X9M/view?usp=sharing)
-
 [My work as a poet](https://lydialiupoet.com/the-problem-of-deer) has been supported by a [MacDowell](https://www.macdowell.org) fellowship.
 
 <details>
@@ -55,7 +53,7 @@ ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 
 Oct 2025
 * Paper with Kara Schechtman, Benjamin Brandon, Jenise Stafford, and Hannah Li on _Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising_ accepted for oral presentations at ACM [EAAMO](https://conference.eaamo.org) 2025 (Pittsburgh, PA) and [CODE](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/) 2025 (Cambridge, MA)! 
 * Paper with Amaya Dharmasiri, William Yang, Polina Kirichenko, and Olga Russakovsky on _The Impact of Coreset Selection on Spurious Correlations and Group Robustness_ accepted at NeurIPS 2025!
-* Excited to be invited as a [Kavli Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2025-kavli-fellows/) to present work at the 2025 Japanese-American-German Kavli Frontiers of Science Symposium in Irvine, CA.
+* Excited to be invited as a [Kavli Fellow](https://www.nasonline.org/news/national-academy-of-sciences-selects-the-2025-kavli-fellows/) to present work at the 2025 Japanese-American-German Kavli Frontiers of Science Symposium in Irvine, CA. [[Poster]](https://drive.google.com/file/d/1Qso8WL55xtINyF9cNwZXz7UuLygR3X9M/view?usp=sharing)
   
 Apr 2025
 * I am co-organizing the Simons Institute Workshop on [Bridging Prediction and Intervention Problems in Social Systems](https://simons.berkeley.edu/workshops/bridging-prediction-intervention-problems-social-systems) at the Simons Institute, Berkeley, CA,  Jan 12-16, 2026!  Excited for the second BRIPSS workshop after starting [the first one at BIRS](http://www.birs.ca/events/2024/5-day-workshops/24w5283).
