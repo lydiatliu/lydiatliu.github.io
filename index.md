@@ -16,8 +16,7 @@ I am the recipient of an [Amazon Research Award](https://www.amazon.science/rese
 
 For general audience articles about my recent work, see features by [Center for Statistics and Machine Learning](https://csml.princeton.edu/news/lydia-liu-rethinking-ai’s-impact-society-through-lens-fairness) and [Department News](https://www.cs.princeton.edu/news/lydia-liu-expert-social-impacts-machine-learning-has-joined-faculty).
 
-<embed src="https://drive.google.com/file/d/1Qso8WL55xtINyF9cNwZXz7UuLygR3X9M/view?usp=sharing" width="500" height="375" 
- type="application/pdf">
+[![Poster of Recent Work](thumbnail.png)](https://drive.google.com/file/d/1Qso8WL55xtINyF9cNwZXz7UuLygR3X9M/view?usp=sharing)
 
 [My work as a poet](https://lydialiupoet.com/the-problem-of-deer) has been supported by a [MacDowell](https://www.macdowell.org) fellowship.
 
