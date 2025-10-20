@@ -8,7 +8,7 @@ title: Lydia T. Liu
 
 <img src="img/01 - Liu 2024 DKC - small.jpg" alt="Photo" class="leftside_image" title="Photo Credit: David Kelly Crow">
 
-I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes. I am an faculty affliate of the [Center for Information Technology Policy](https://citp.princeton.edu) and [Center for Statistics and Machine Learning](https://csml.princeton.edu).
+I am **assistant professor of [Computer Science](https://www.cs.princeton.edu) at Princeton University**. Currently, I am most interested in the _scientific and normative foundations_ of machine learning and algorithmic decision-making, with a focus on societal impact and welfare outcomes. I am a faculty affliate of the [Center for Information Technology Policy](https://citp.princeton.edu) and [Center for Statistics and Machine Learning](https://csml.princeton.edu).
 
  I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from University of California, Berkeley, in May 2022, advised by [Moritz Hardt](http://mrtz.org/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). In 2022-2023, I was a postdoctoral associate at [Cornell University Computer Science](http://cis.cornell.edu/cornell-computing-information-science), working with [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Karen Levy](https://www.karen-levy.net), and [Solon Barocas](http://solon.barocas.org) in the [Artificial Intelligence, Policy, and Practice (AIPP)](https://aipp.cis.cornell.edu) initiative. 
  
