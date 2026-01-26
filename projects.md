@@ -23,9 +23,6 @@ Many automated decision systems (ADS) are designed to solve prediction problems 
 *To appear (Non-archival)*,  ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO). [[arxiv]](https://arxiv.org/abs/2505.13325)  
 A preliminary version was presented at  [IC2S2](https://www.ic2s2-2025.org), Norrköping, Sweden, July 2025, and at the [Workshop on AI & Analytics for Social Good](https://www.rhsmith.umd.edu/departments/decision-operations-information-technologies/impact-workshop), College Park, MD, May 2025.
 
-* Amaya Dharmasiri, William Yang, Polina Kirichenko, Lydia T. Liu, Olga Russakovsky.  
-**The Impact of Coreset Selection on Spurious Correlations and Group Robustness**.   
-*To appear*, NeurIPS, 2025.  
 
 * Mark D. Verhagen, Benedikt Stroebl, Tiffany Liu, Lydia T. Liu, Matthew J. Salganik.  
   **The Book of Life approach: Enabling richness and scale for life course research.**  
@@ -61,6 +58,11 @@ Presented as a [poster](/assets/decentralizedbandits_poster.pdf) at Workshop on 
 
 
 #### Conference proceedings
+
+
+* Amaya Dharmasiri, William Yang, Polina Kirichenko, Lydia T. Liu, Olga Russakovsky.  
+**The Impact of Coreset Selection on Spurious Correlations and Group Robustness**. [[poster]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121416)  
+Advances in Neural Information Processing Systems (NeurIPS), San Diego, CA, 2025.  
 
 * Inioluwa Deborah Raji and Lydia T. Liu.  
 **Evaluating Prediction-based Interventions with Human Decision Makers In Mind.**  
