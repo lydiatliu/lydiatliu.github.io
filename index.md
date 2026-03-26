@@ -53,7 +53,7 @@ ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 
 Mar 2026
 * We received a [Spencer Foundation](https://www.spencer.org) award to study AI-supported advising and its implications for equity in education!
 * We're excited to welcome [Eve Fleisig](https://www.efleisig.com) as a Postdoctoral Fellow at Princeton CITP, starting in Fall 2026, co-advised by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) and me!
-* I gave an invited talk on _Expertise in Age of Human-AI Collaboration_ at the NYU C+M Center AI 2026 Conference, The Human Future in the Age of AI, and shared on my thoughts on the "AI and the Future of Work" panel.
+* I gave an invited talk on _Expertise in Age of Human-AI Collaboration_ at the NYU C+M Center AI 2026 Conference, The Human Future in the Age of AI, and shared on my thoughts on "AI and the Future of Work".
   
 Oct 2025  
 * Paper with Kara Schechtman, Benjamin Brandon, Jenise Stafford, and Hannah Li on _Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising_ accepted for oral presentations at ACM [EAAMO](https://conference.eaamo.org) 2025 (Pittsburgh, PA) and [CODE](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/) 2025 (Cambridge, MA)! 
