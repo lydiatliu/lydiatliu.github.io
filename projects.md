@@ -26,7 +26,7 @@ A preliminary version was presented at  [IC2S2](https://www.ic2s2-2025.org), Nor
 
 * Mark D. Verhagen, Benedikt Stroebl, Tiffany Liu, Lydia T. Liu, Matthew J. Salganik.  
   **The Book of Life approach: Enabling richness and scale for life course research.**  
-  *Working Paper*, 2025. [[arxiv]](http://arxiv.org/abs/2507.03027)  
+  *Working Paper*, 2025. [[arxiv]](http://arxiv.org/abs/2507.03027) [[blogpost]](https://blog.ai.princeton.edu/2026/02/20/the-book-of-life-moving-from-a-sociology-of-variables-to-a-sociology-of-events/)    
 
  
 ### Peer-reviewed publications
