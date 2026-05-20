@@ -50,6 +50,10 @@ ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization 
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. [[arxiv]](https://arxiv.org/abs/1803.04383)
 
 ## News
+May 2026
+* I will be presenting a tutorial on "Bridging Prediction and Intervention Problems in Social Systems" at ACM FAccT 2026 in Montréal, Canada. Come say hi!
+* I am starting a new COS independent work seminar on [_Rethinking Human-AI Collaboration through Design_](https://docs.google.com/document/d/197lEv8lrXxPKNCbtPcBzxC90-SQZWbuuD5osM5Ykgos/edit?tab=t.0) for Fall 2026. In this seminar, students will design and build original human-AI collaboration tools that center human knowing. 
+
 Mar 2026
 * We received a [Spencer Foundation](https://www.spencer.org) award to study AI-supported advising and its implications for equity in education!
 * We're excited to welcome [Eve Fleisig](https://www.efleisig.com) as a Postdoctoral Fellow at Princeton CITP, starting in Fall 2026, co-advised by [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) and me!
