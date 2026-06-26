@@ -11,7 +11,7 @@ With Angela Zhou and Deborah Raji. ACM FAccT 2026 tutorial, Montréal, Canada.
 
 ### Materials
 
-- [Slide deck](#)
+- [Slide deck](https://drive.google.com/file/d/1bbcoR2LbQVY5iLIq2ZM3ej-cxrC57jS4/view?usp=sharing)
 - [Slido poll](https://app.sli.do/event/mCEtTqnBoq9uM94ZjpvBEM)
 - [Prediction-as-index activity sheet](https://docs.google.com/spreadsheets/d/1K52i21vf30BwFaj2Y_vnwnzrwedDc9fp3FdbM2OoMYk/edit?usp=sharing)
 
