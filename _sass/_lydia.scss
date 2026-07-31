@@ -258,19 +258,20 @@ blockquote {
 }
 
 .research-themes {
-  border-bottom: 1px solid #e5e5e5;
-  border-top: 1px solid #e5e5e5;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
   display: grid;
   gap: 0;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   margin: 0.35rem 0 1.15rem;
+  overflow: hidden;
 }
 
 .research-themes section {
-  background: #fafafa;
+  background: #fdfdfd;
   border-right: 1px solid #e5e5e5;
-  border-top: 3px solid #d5d5d5;
-  padding: 0.9rem 1rem 0.95rem 0;
+  border-top: 2px solid #d5d5d5;
+  padding: 0.78rem 0.9rem 0.85rem;
 }
 
 .research-themes section + section {
@@ -282,33 +283,34 @@ blockquote {
 }
 
 .research-themes section:nth-child(1) {
-  background: #f6fbfc;
+  background: #fbfefe;
   border-top-color: #50b9c2;
 }
 
 .research-themes section:nth-child(2) {
-  background: #f8faf6;
+  background: #fdfefc;
   border-top-color: #8aa36f;
 }
 
 .research-themes section:nth-child(3) {
-  background: #faf8fc;
+  background: #fefcff;
   border-top-color: #9c86b8;
 }
 
 .research-themes h2 {
   border-bottom: 0;
   color: #222222;
-  font-size: 0.96rem;
-  line-height: 1.2;
-  margin: 0 0 0.45rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.18;
+  margin: 0 0 0.35rem;
   padding-bottom: 0;
 }
 
 .research-themes p {
   color: #666666;
-  font-size: 0.84rem;
-  line-height: 1.42;
+  font-size: 0.82rem;
+  line-height: 1.38;
   margin: 0;
 }
 
@@ -856,7 +858,7 @@ blockquote {
   .research-themes section {
     border-bottom: 1px solid #e5e5e5;
     border-right: 0;
-    padding: 0.75rem 0;
+    padding: 0.75rem 1rem;
   }
 
   .research-themes section + section {

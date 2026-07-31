@@ -53,6 +53,12 @@ I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://ee
 
 <div class="selected-publications">
   <div class="selected-publication">
+    <p class="pub-title">Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems.</p>
+    <p class="pub-meta">Inioluwa Deborah Raji<sup>*</sup>, Lydia T. Liu<sup>*</sup>, Angela Zhou<sup>*</sup>, et al. In submission, 2026.</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2606.25668">arxiv</a></p>
+  </div>
+
+  <div class="selected-publication">
     <p class="pub-title">Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising.</p>
     <p class="pub-meta">Kara Schechtman, Benjamin Brandon, Jenise Stafford, Hannah Li<sup>^</sup>, Lydia T. Liu<sup>^</sup>. EAAMO, to appear, 2025.</p>
     <p class="pub-links"><a href="https://arxiv.org/abs/2505.13325">arxiv</a></p>
