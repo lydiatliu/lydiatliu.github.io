@@ -48,7 +48,7 @@ Currently, my work revolves around three interconnected questions. I also take p
 
 - Inioluwa Deborah Raji<sup>*</sup>, Lydia T. Liu<sup>*</sup>, Angela Zhou<sup>*</sup>, et al.<br>
   **Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems.**<br>
-  _Pre-print_, 2026. [arxiv](https://arxiv.org/abs/2606.25668)<br>
+  _In Submission_, 2026. [arxiv](https://arxiv.org/abs/2606.25668)<br>
   A companion perspective article that distills the core framework and motivation of the paper below for a broader audience.
 
 - Lydia T. Liu<sup>*</sup>, Inioluwa Deborah Raji<sup>*</sup>, Angela Zhou<sup>*</sup>, Luke Guerdan,
