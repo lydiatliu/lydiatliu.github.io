@@ -46,7 +46,12 @@ Currently, my work revolves around three interconnected questions. I also take p
 
 ### Manuscripts
 
-- Lydia T. Liu<sup>^</sup>, Inioluwa Deborah Raji<sup>^</sup>, Angela Zhou<sup>^</sup>, Luke Guerdan,
+- Inioluwa Deborah Raji<sup>*</sup>, Lydia T. Liu<sup>*</sup>, Angela Zhou<sup>*</sup>, et al.<br>
+  **Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems.**<br>
+  _Pre-print_, 2026. [arxiv](https://arxiv.org/abs/2606.25668)<br>
+  A companion perspective article that distills the core framework and motivation of the paper below for a broader audience.
+
+- Lydia T. Liu<sup>*</sup>, Inioluwa Deborah Raji<sup>*</sup>, Angela Zhou<sup>*</sup>, Luke Guerdan,
   Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam,
   Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli
   Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion
@@ -224,7 +229,7 @@ Our work has been featured in:
     const rules = [
       [
         "prediction-social",
-        /Bridging Prediction and Intervention Problems|The Book of Life approach|Reimagining the Machine Learning Life Cycle|The Reach of Fairness|On the Actionability of Outcome Prediction|Delayed Impact of Fair Machine Learning|The Disparate Equilibria|Balancing Competing Objectives|A Baseline that Matters/i,
+        /Bridging Prediction and Intervention Problems|Bridging Predictions and Interventions|The Book of Life approach|Reimagining the Machine Learning Life Cycle|The Reach of Fairness|On the Actionability of Outcome Prediction|Delayed Impact of Fair Machine Learning|The Disparate Equilibria|Balancing Competing Objectives|A Baseline that Matters/i,
       ],
       [
         "causal-human-ai",
@@ -232,7 +237,7 @@ Our work has been featured in:
       ],
       [
         "evaluation",
-        /Bridging Prediction and Intervention Problems|Evaluating Prediction-based Interventions|Impact of Coreset Selection|Rethinking Math Benchmarks|Evaluating Fairness in Black-box Algorithmic Markets|A Baseline that Matters/i,
+        /Bridging Prediction and Intervention Problems|Bridging Predictions and Interventions|Evaluating Prediction-based Interventions|Impact of Coreset Selection|Rethinking Math Benchmarks|Evaluating Fairness in Black-box Algorithmic Markets|A Baseline that Matters/i,
       ],
       [
         "incentives",
