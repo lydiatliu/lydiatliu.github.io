@@ -46,7 +46,7 @@ Currently, my work revolves around three interconnected questions. I also take p
 
 ### Manuscripts
 
-- Lydia T. Liu, Kara Schechtman, Pengyi Shi, Angela Zhou.<br>
+- Lydia T. Liu, Kara Schechtman, Pengyi Shi, Angela Zhou<sup>&alpha;-&beta;</sup>.<br>
   **Learning through Capacity Awareness to Minimize Hospital Readmissions.**<br>
   _Preprint_, 2026. [arxiv](https://arxiv.org/abs/2611.11493)
 
