@@ -53,6 +53,12 @@ I obtained my Ph.D. in [Electrical Engineering and Computer Sciences](https://ee
 
 <div class="selected-publications">
   <div class="selected-publication">
+    <p class="pub-title">Learning through Capacity Awareness to Minimize Hospital Readmissions.</p>
+    <p class="pub-meta">Lydia T. Liu, Kara Schechtman, Pengyi Shi, Angela Zhou. Preprint, 2026.</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2611.11493">arxiv</a></p>
+  </div>
+
+  <div class="selected-publication">
     <p class="pub-title">Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems.</p>
     <p class="pub-meta">Inioluwa Deborah Raji<sup>*</sup>, Lydia T. Liu<sup>*</sup>, Angela Zhou<sup>*</sup>, et al. In submission, 2026.</p>
     <p class="pub-links"><a href="https://arxiv.org/abs/2606.25668">arxiv</a></p>

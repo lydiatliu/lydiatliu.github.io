@@ -46,6 +46,10 @@ Currently, my work revolves around three interconnected questions. I also take p
 
 ### Manuscripts
 
+- Lydia T. Liu, Kara Schechtman, Pengyi Shi, Angela Zhou.<br>
+  **Learning through Capacity Awareness to Minimize Hospital Readmissions.**<br>
+  _Preprint_, 2026. [arxiv](https://arxiv.org/abs/2611.11493)
+
 - Inioluwa Deborah Raji<sup>*</sup>, Lydia T. Liu<sup>*</sup>, Angela Zhou<sup>*</sup>, et al.<br>
   **Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems.**<br>
   _In Submission_, 2026. [arxiv](https://arxiv.org/abs/2606.25668)<br>
@@ -232,7 +236,7 @@ Our work has been featured in:
     const rules = [
       [
         "prediction-social",
-        /Bridging Prediction and Intervention Problems|Bridging Predictions and Interventions|The Book of Life approach|Reimagining the Machine Learning Life Cycle|The Reach of Fairness|On the Actionability of Outcome Prediction|Delayed Impact of Fair Machine Learning|The Disparate Equilibria|Balancing Competing Objectives|A Baseline that Matters/i,
+        /Learning through Capacity Awareness|Bridging Prediction and Intervention Problems|Bridging Predictions and Interventions|The Book of Life approach|Reimagining the Machine Learning Life Cycle|The Reach of Fairness|On the Actionability of Outcome Prediction|Delayed Impact of Fair Machine Learning|The Disparate Equilibria|Balancing Competing Objectives|A Baseline that Matters/i,
       ],
       [
         "causal-human-ai",
@@ -248,7 +252,7 @@ Our work has been featured in:
       ],
       [
         "fairness",
-        /The Reach of Fairness|The Impact of Coreset Selection|Balancing Competing Objectives|The Disparate Equilibria|The Implicit Fairness Criterion|Delayed Impact of Fair Machine Learning|Evaluating Fairness in Black-box Algorithmic Markets|A Baseline that Matters|Strategic ranking/i,
+        /Learning through Capacity Awareness|The Reach of Fairness|The Impact of Coreset Selection|Balancing Competing Objectives|The Disparate Equilibria|The Implicit Fairness Criterion|Delayed Impact of Fair Machine Learning|Evaluating Fairness in Black-box Algorithmic Markets|A Baseline that Matters|Strategic ranking/i,
       ],
       [
         "education",
